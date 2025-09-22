@@ -161,7 +161,6 @@ let barriers = document.getElementById("dropdownBarriers");
 let home = document.getElementById("home");
 
 //home.onclick = () => {window.location.href = "index.html";}
-function importance(){window.location.href = "importance.html";}
 importance.onclick = () => {catAmbulanceAnimation();}
 solutions.onclick = () => {window.location.href = "solutions.html";};
 barriers.onclick = () => {window.location.href = "barriers.html"; console.log("barriers");}
@@ -200,4 +199,5 @@ async function catAmbulanceAnimation(){
     sirens.play();
 }
 */
+
 
