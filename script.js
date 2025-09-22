@@ -58,6 +58,7 @@ function mobileNavShowing(){
 
 function showNavDropDownsMobile(){
     let leftOffset = 0;
+    catAmbulanceAnimation();
     //dropDownBase.style.width = "70%";
     //dropDownBase.style.height = "5%";
 for (let dropdown of dropdowns) {
@@ -161,7 +162,7 @@ let barriers = document.getElementById("dropdownBarriers");
 let home = document.getElementById("home");
 
 //home.onclick = () => {window.location.href = "index.html";}
-importance.onclick = () => {catAmbulanceAnimation();}
+importance.onclick = () => {window.location.href = "importance.html";}
 solutions.onclick = () => {window.location.href = "solutions.html";};
 barriers.onclick = () => {window.location.href = "barriers.html"; console.log("barriers");}
 home.onclick = () => {window.location.href = "index.html"; console.log("home");}
@@ -199,5 +200,6 @@ async function catAmbulanceAnimation(){
     sirens.play();
 }
 */
+
 
 
