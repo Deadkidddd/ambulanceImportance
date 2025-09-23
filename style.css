@@ -13,7 +13,7 @@ p{
 }
 
 @media only screen and (min-width: 302.36px){
-background-color: rgb(60, 0, 0);
+body{background-color: rgb(60, 0, 0);}
 .navPgOne{
     position: absolute;
     top: 0;
@@ -168,6 +168,7 @@ body{background-color: blue;}
     from {opacity: 0;}
     to {opacity: 1;}
 }
+
 
 
 
