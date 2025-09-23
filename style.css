@@ -118,7 +118,7 @@ body{
     text-shadow: .75px 3px 2px rgb(0, 0, 0);
     height: 2.25%;
     position: absolute;
-    top: 15%;
+    top: 12%;
     text-align: center;
     box-shadow: 1px 1px 20px rgb(0, 0, 0);
 }
@@ -140,7 +140,7 @@ body{
     z-index: 2;
     left: .5%;
     opacity: 40%;
-    top: 15%;
+    top: 12%;
     font-size: 15px;
 }
 
