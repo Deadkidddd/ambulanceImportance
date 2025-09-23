@@ -122,7 +122,7 @@ body{
     text-shadow: .75px 3px 2px rgb(0, 0, 0);
     height: 2.25%;
     position: absolute;
-    top: 30%;
+    top: 40%;
     text-align: center;
     box-shadow: 1px 1px 20px rgb(0, 0, 0);
 }
@@ -144,7 +144,7 @@ body{
     z-index: 2;
     left: .5%;
     opacity: 40%;
-    top: 30%;
+    top: 40%;
 }
 
 #catInAmbulance{
@@ -172,6 +172,7 @@ body{
     from {opacity: 0;}
     to {opacity: 1;}
 }
+
 
 
 
