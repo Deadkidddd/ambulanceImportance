@@ -69,7 +69,7 @@ body{background-color: rgb(60, 0, 0);}
 }
 }
 
-@media only screen and (max-width: 302.35px){
+@media only screen and (max-width: 302.35px) or (device-width <= 80mm) {
 body{
 background-color: blue;
 
