@@ -13,7 +13,7 @@ p{
     text-shadow: 1px 1px 4px rgb(255, 255, 255);
 }
 
-@media only screen and (min-width: 480px){
+@media only screen and (min-width: 81m){
 .navPgOne{
     position: absolute;
     top: 0;
@@ -69,7 +69,7 @@ p{
 }
 }
 
-@media only screen and (max-width: 480px){
+@media only screen and (max-width: 80m){
 .navPgOne{
     position: fixed;
 }
