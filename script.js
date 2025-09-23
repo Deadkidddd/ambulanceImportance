@@ -4,8 +4,8 @@ let device = "";
 findDeviceType();
 
 function findDeviceType(){
-if (width >= 480){device = "desktop"; console.log("desktop");}
-else if(width <480){device = "mobile"; console.log("mobile");}
+if (width >= 80m){device = "desktop"; console.log("desktop");}
+else if(width <80m){device = "mobile"; console.log("mobile");}
 else{console.log("error!"); window.location.href = "error.html";}
 }
 
