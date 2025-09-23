@@ -71,8 +71,7 @@ body{background-color: rgb(60, 0, 0);}
 
 @media only screen and (max-width: 500px){
 body{
-background-color: blue;
-
+background-color: black;
 }
 .navPgOne{
     position: fixed;
@@ -80,14 +79,14 @@ background-color: blue;
 
 .pgTitle{
      width: 100%;
-    font-size: 30px;
+    font-size: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     left: 2%;
     top: 1%;
 }
 
 #pageTitle{
-    font-size: 30px;
+    font-size: auto;
     text-shadow: 1px 1px 10px rgb(255, 255, 255);
     background-color: black;
     width: 70%;
@@ -171,6 +170,7 @@ background-color: blue;
     from {opacity: 0;}
     to {opacity: 1;}
 }
+
 
 
 
