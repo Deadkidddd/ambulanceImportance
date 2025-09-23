@@ -79,14 +79,6 @@ body{
     position: fixed;
 }
 
-.pgTitle{
-     width: 100%;
-    font-size: 25px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    left: 2%;
-    top: 1%;
-}
-
 #pageTitle{
     font-size: 25px;
     text-shadow: 1px 1px 10px rgb(255, 255, 255);
@@ -172,6 +164,7 @@ body{
     from {opacity: 0;}
     to {opacity: 1;}
 }
+
 
 
 
