@@ -79,6 +79,10 @@ body{
     position: fixed;
 }
 
+#pageTitleShadow{
+    display: none;
+}
+    
 #pageTitle{
     font-size: 25px;
     text-shadow: 1px 1px 10px rgb(255, 255, 255);
@@ -164,6 +168,7 @@ body{
     from {opacity: 0;}
     to {opacity: 1;}
 }
+
 
 
 
