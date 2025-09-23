@@ -1,5 +1,6 @@
 body{
     width: 100%;
+    background-color: rgb(60, 0, 0);
 }
 
 p{
@@ -13,7 +14,6 @@ p{
 }
 
 @media only screen and (min-width: 500px){
-body{background-color: rgb(60, 0, 0);}
 .navPgOne{
     position: absolute;
     top: 0;
@@ -70,9 +70,6 @@ body{background-color: rgb(60, 0, 0);}
 }
 
 @media only screen and (max-width: 500px){
-body{
-background-color: black;
-}
 .navPgOne{
     position: fixed;
 }
@@ -170,6 +167,7 @@ background-color: black;
     from {opacity: 0;}
     to {opacity: 1;}
 }
+
 
 
 
