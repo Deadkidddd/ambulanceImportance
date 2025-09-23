@@ -81,14 +81,14 @@ body{
 
 .pgTitle{
      width: 100%;
-    font-size: 30px;
+    font-size: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     left: 2%;
     top: 1%;
 }
 
 #pageTitle{
-    font-size: 30px;
+    font-size: 25px;
     text-shadow: 1px 1px 10px rgb(255, 255, 255);
     background-color: black;
     width: 70%;
@@ -144,7 +144,7 @@ body{
     z-index: 2;
     left: .5%;
     opacity: 40%;
-    top: 8%;
+    top: 30%;
 }
 
 #catInAmbulance{
@@ -172,6 +172,7 @@ body{
     from {opacity: 0;}
     to {opacity: 1;}
 }
+
 
 
 
