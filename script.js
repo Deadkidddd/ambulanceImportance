@@ -138,12 +138,12 @@ else{
 
 //Execute
 if (device === "mobile"){
-    mobileNavShowing();
+    //mobileNavShowing(); for other code i was too lazy to go through with
     mobileDisplay();
 }
 
 else if (device === "desktop"){
-    mobileNavShowing();
+    //mobileNavShowing(); that wasnt even supposed to be there but ill keep it i guesss
     regularDisplay();
 }
 
@@ -167,7 +167,7 @@ solutions.onclick = () => {window.location.href = "solutions.html";};
 barriers.onclick = () => {window.location.href = "barriers.html"; console.log("barriers");}
 home.onclick = () => {window.location.href = "index.html"; console.log("home");}
 
-//catInAmbulance Animation Relating to Screen Load
+//catInAmbulance Animation for page switches
 let catInAmbulance = document.getElementById("catInAmbulance");
 let catAmbulancePosition = 0;
 let catInAmbulanceShadow = document.getElementById("catInAmbulanceShadow");
@@ -200,6 +200,7 @@ async function catAmbulanceAnimation(){
     sirens.play();
 }
 */
+
 
 
 
