@@ -38,8 +38,8 @@ function evenOrOdd(){
 let dropDownBase = document.getElementById("dropdownBase");
 let dropdowns = document.getElementsByClassName("dropdown");
 
-//mobile special navigation
-function mobileNavShowing(){
+//mobile special navigation that i decided not to implement due to time
+/*function mobileNavShowing(){
     navBase.onclick = () => {
         number += 1;
         evenOrOdd();
@@ -54,7 +54,7 @@ function mobileNavShowing(){
         }
         else{console.log("error!"); window.location.href = "error.html";}
     }
-}
+}*/
 
 function showNavDropDownsMobile(){
     let leftOffset = 0;
@@ -200,6 +200,7 @@ async function catAmbulanceAnimation(){
     sirens.play();
 }
 */
+
 
 
 
