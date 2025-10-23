@@ -3,7 +3,7 @@ body{
 }
 
 p{
-    position: relative;
+    position: sticky;
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     top: 80px;
