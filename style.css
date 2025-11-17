@@ -171,9 +171,14 @@ body{
 }
 
 @keyframes coloranimation{
-    from {color: green;}
-    to {color: red;}
+    0% {color: green;}
+    20% {color: red;}
+    40% {color: blue}
+    60% {color: green;}
+    80% {color: red;}
+    100% {color: blue;}
 }
+
 
 
 
