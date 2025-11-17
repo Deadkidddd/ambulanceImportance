@@ -165,10 +165,16 @@ body{
 }
 }
 
-@keyframes fadeIn {
+@keyframes fadeIn{
     from {opacity: 0;}
     to {opacity: 1;}
 }
+
+@keyframes coloranimation{
+    from {color: green;}
+    to {color: red;}
+}
+
 
 
 
