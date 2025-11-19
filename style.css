@@ -19,14 +19,15 @@ body{
 p{
     font-size: 40px;
     left: 50%;
-    top: 25%
 }
 #pageTitle{
     z-index: 6;
+    top: 2%;
 }
 
 .navPgOne{
     position: fixed;
+    top: 30%;
 }
     
 .dropdown{
@@ -196,6 +197,7 @@ p{
     80% {color: red;}
     100% {color: blue;}
 }
+
 
 
 
