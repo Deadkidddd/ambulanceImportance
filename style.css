@@ -15,7 +15,6 @@ p{
 @media only screen and (min-width: 500px){
 body{
      background-color: rgb(60, 0, 0);
-    overflow: scroll;
 }
 
 p{
@@ -192,6 +191,7 @@ body{
     80% {color: red;}
     100% {color: blue;}
 }
+
 
 
 
