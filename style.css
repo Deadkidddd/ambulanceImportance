@@ -6,7 +6,6 @@ p{
     position: sticky;
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    top: 80px;
     width: 80%;
     left: 10%;
     text-shadow: 1px 1px 4px rgb(255, 255, 255);
@@ -20,7 +19,7 @@ body{
 p{
     font-size: 40px;
     left: 50%;
-    top: 20%
+    top: 25%
 }
 #pageTitle{
     z-index: 6;
@@ -90,6 +89,9 @@ p{
 @media only screen and (max-width: 500px){
 body{
      background-color: rgb(60, 0, 0);
+}
+p{
+    top: 20%
 }
 .navPgOne{
     position: fixed;
@@ -194,6 +196,7 @@ body{
     80% {color: red;}
     100% {color: blue;}
 }
+
 
 
 
