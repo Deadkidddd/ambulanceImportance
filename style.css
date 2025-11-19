@@ -33,7 +33,7 @@ p{
     display: none;
     width: 90px;
     height: 40px;
-    position: sticky;
+    position: absolute;
     top: 2%;
     z-index: 2;
 }
@@ -191,6 +191,7 @@ body{
     80% {color: red;}
     100% {color: blue;}
 }
+
 
 
 
