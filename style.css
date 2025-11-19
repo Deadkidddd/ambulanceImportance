@@ -37,7 +37,7 @@ p{
     width: 90px;
     height: 40px;
     position: absolute;
-    top: 2%;
+    top: 32%;
     z-index: 2;
 }
 
@@ -197,6 +197,7 @@ p{
     80% {color: red;}
     100% {color: blue;}
 }
+
 
 
 
