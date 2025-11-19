@@ -103,6 +103,7 @@ else{
 //regular displays
 function showNavDropDowns(){
     let topOffset = 0;
+    catAmbulanceAnimation();
 for (let dropdown of dropdowns) {
     dropdown.style.animation = "fadeIn 2s 1";
     dropdown.style.display = "block";
@@ -200,6 +201,7 @@ async function catAmbulanceAnimation(){
     sirens.play();
 }
 */
+
 
 
 
