@@ -22,6 +22,9 @@ p{
     left: 50%;
     top: 20%
 }
+#pageTitle{
+    z-index: 6;
+}
 
 .navPgOne{
     position: fixed;
@@ -191,6 +194,7 @@ body{
     80% {color: red;}
     100% {color: blue;}
 }
+
 
 
 
