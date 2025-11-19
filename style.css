@@ -18,12 +18,13 @@ body{
 }
 
 p{
-    font-size: 50px;
+    font-size: 40px;
     left: 50%;
+    top: 20%
 }
 
 .navPgOne{
-    position: absolute;
+    position: fixed;
 }
     
 .dropdown{
@@ -43,6 +44,7 @@ p{
     height: 60px;
     top: 0%;
     z-index: 1;
+    left: 0%;
 }
 
 #navBase{
@@ -189,6 +191,7 @@ body{
     80% {color: red;}
     100% {color: blue;}
 }
+
 
 
 
