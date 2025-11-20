@@ -8,6 +8,7 @@ p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 80%;
     text-shadow: 1px 1px 4px rgb(255, 255, 255);
+    left: 50%;
 }
 
 @media only screen and (min-width: 500px){
@@ -196,6 +197,7 @@ p{
     80% {color: red;}
     100% {color: blue;}
 }
+
 
 
 
