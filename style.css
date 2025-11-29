@@ -96,9 +96,11 @@ body{
 #barriersMainPoint{
      position: absolute;
      top: 20%;
-     left: 50%;
+     left: 5%;
      max-height: 60%;
      overflow: scroll;
+     background-color: black;
+     background-opacity: 20%;
 }
 
 #cause{
