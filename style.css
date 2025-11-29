@@ -94,7 +94,7 @@ body{
 }
 
 #cause{
-     top: 5%;
+     top: 20%;
      max-height: 60%;
      overflow: hide;
      text-overflow: scroll;
