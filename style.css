@@ -94,6 +94,26 @@ body{
      background-color: rgb(60, 0, 0);
 }
 
+#importanceMainPoint{
+     position: absolute;
+     top: 15%;
+     left: 10%;
+     max-height: 80%;
+     overflow: scroll;
+     border-color: white;
+     border-weight: 4px;
+}
+
+#solutionsMainPoint{
+     position: absolute;
+     top: 15%;
+     left: 10%;
+     max-height: 80%;
+     overflow: scroll;
+     border-color: white;
+     border-weight: 4px;
+}
+
 #barriersMainPoint{
      position: absolute;
      top: 15%;
@@ -101,15 +121,17 @@ body{
      max-height: 80%;
      overflow: scroll;
      border-color: white;
-     border-weight: 2px;
+     border-weight: 4px;
 }
 
 #cause{
      position: absolute;
-     top: 20%;
-     max-height: 60%;
-     overflow: hide;
-     text-overflow: scroll;
+     top: 15%;
+     left: 10%;
+     max-height: 80%;
+     overflow: scroll;
+     border-color: white;
+     border-weight: 4px;
 }
 
 p{
