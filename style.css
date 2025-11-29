@@ -93,7 +93,16 @@ body{
      background-color: rgb(60, 0, 0);
 }
 
+#barriersMainPoint{
+     position: absolute;
+     top: 20%;
+     max-height: 60%;
+     overflow: hidden;
+     text-overflow: scroll;
+}
+
 #cause{
+     position: absolute;
      top: 20%;
      max-height: 60%;
      overflow: hide;
