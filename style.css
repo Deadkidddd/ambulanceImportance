@@ -95,12 +95,12 @@ body{
 
 #barriersMainPoint{
      position: absolute;
-     top: 20%;
-     left: 7%;
-     max-height: 60%;
+     top: 15%;
+     left: 10%;
+     max-height: 80%;
      overflow: scroll;
-     background-color: black, 20%;
-     background-opacity: 20%;
+     border-color: white;
+     border-weight: 2px;
 }
 
 #cause{
