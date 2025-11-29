@@ -96,10 +96,10 @@ body{
 #barriersMainPoint{
      position: absolute;
      top: 20%;
-     left: 5%;
+     left: 7%;
      max-height: 60%;
      overflow: scroll;
-     background-color: black;
+     background-color: black, 20%;
      background-opacity: 20%;
 }
 
