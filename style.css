@@ -96,8 +96,10 @@ body{
 #cause{
      top: 5%;
      max-height: 60%;
-     overflow: scroll;
+     overflow: hide;
+     text-overflow: scroll;
 }
+
 p{
     top: 20%
 }
