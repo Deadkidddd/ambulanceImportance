@@ -92,6 +92,12 @@ p{
 body{
      background-color: rgb(60, 0, 0);
 }
+
+#cause{
+     top: 5%;
+     max-height: 60%;
+     overflow: hidden;
+     text-overflow: string;
 p{
     top: 20%
 }
